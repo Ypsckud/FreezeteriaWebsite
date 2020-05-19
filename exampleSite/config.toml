@@ -22,7 +22,7 @@ weight = ""
 [[menu.main]]
 URL = ""
 name = "News"
-weight = ""
+weight = "1"
 [[menu.main]]
 URL = "services"
 name = "My Days"
