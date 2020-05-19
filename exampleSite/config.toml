@@ -26,7 +26,7 @@ weight = 8
 name = "Hobby"
 weight = 7
 [[menu.main]]
-name = "My News"
+name = "News"
 url = "News"
 weight = 1
 [[menu.main]]
