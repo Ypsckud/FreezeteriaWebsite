@@ -33,7 +33,7 @@ name = "Pictures"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "Team"
+name = "Photos"
 weight = 4
 [[menu.main]]
 URL = "pricing"
