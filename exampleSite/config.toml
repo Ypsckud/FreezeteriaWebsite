@@ -37,7 +37,7 @@ name = "Photos"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Music"
 weight = 5
 [[menu.main]]
 URL = "blog"
