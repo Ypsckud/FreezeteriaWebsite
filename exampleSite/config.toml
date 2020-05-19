@@ -25,7 +25,7 @@ name = "Contact"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "My days"
+name = "My Days"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
