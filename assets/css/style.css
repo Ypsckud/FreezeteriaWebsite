@@ -407,6 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
+  font-size: large;
   background-color: #1d2024;
   width: 100%;
   margin-bottom: 0;
