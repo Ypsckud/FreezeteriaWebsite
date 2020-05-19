@@ -41,7 +41,7 @@ name = "Music"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Books"
 weight = 6
 [[menu.main]]
 URL = "contact"
