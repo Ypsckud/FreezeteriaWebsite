@@ -20,9 +20,9 @@ languageCode = ""
 languageName = ""
 weight = ""
 [[menu.main]]
-URL = "about"
-name = "Contact"
-weight = 1
+URL = ""
+name = "News"
+weight = ""
 [[menu.main]]
 URL = "services"
 name = "My Days"
