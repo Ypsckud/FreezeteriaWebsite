@@ -418,7 +418,8 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: #FFA500;
+  font-size: medium;
 }
 
 .navbar-toggler:focus {
