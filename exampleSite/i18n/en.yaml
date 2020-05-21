@@ -1,3 +1,6 @@
+---
+- id: authorsPosts
+  translation: Author's posts
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -8,8 +11,6 @@
   translation: Share
 - id: aboutAuthor
   translation: About author
-- id: authorsPosts
-  translation: Author's posts
 - id: submit
   translation: Submit
 - id: all
