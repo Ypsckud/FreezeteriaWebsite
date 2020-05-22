@@ -23,5 +23,4 @@ fields:
   label: description
   description: meta description
 pages:
-- exampleSite/data/en/mydays.md
 - exampleSite/data/mydays2.md
