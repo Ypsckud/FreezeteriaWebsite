@@ -22,7 +22,7 @@ weight = ""
 [menu]
 static = []
 [[menu.main]]
-URL = ""
+URL = "blog"
 name = "News"
 weight = "1"
 [[menu.main]]
