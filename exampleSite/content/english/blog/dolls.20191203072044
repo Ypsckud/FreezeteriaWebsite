@@ -5,6 +5,8 @@ description = "dolls"
 image = "/images/portfolio/portfolio-1.jpg"
 image_webp = ""
 title = "Dolls"
+[menu.static]
+weight = 7
 
 +++
 These are my dools

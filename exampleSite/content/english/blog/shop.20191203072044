@@ -5,6 +5,8 @@ description = "shop"
 image = "/images/portfolio/portfolio-4.jpg"
 image_webp = ""
 title = "Shop"
+[menu.static]
+weight = 8
 
 +++
 This is my shop
