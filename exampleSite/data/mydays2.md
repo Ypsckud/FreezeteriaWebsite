@@ -5,6 +5,9 @@ description = "fdgfdg"
 image = ""
 image_webp = ""
 title = "mydays2"
+[menu.static]
+name = "mydasys"
+weight = 1
 
 +++
 dfgfdgfdg
