@@ -5,6 +5,8 @@ description = "adasds"
 image = ""
 image_webp = ""
 title = "mydays"
+[menu.static]
+weight = 1
 
 +++
 asdsadas
