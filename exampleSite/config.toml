@@ -55,10 +55,6 @@ weight = 2
 URL = "blog"
 name = "News"
 weight = 1
-[[menu.static]]
-name = "Pictures"
-url = "pictures"
-weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
