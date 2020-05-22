@@ -22,26 +22,22 @@ weight = ""
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
-[[menu.main]]
-URL = ""
-name = "Shop"
 weight = 6
 [[menu.main]]
 URL = ""
-name = "Dolls"
+name = "Shop"
 weight = 5
 [[menu.main]]
 URL = ""
-name = "Books"
+name = "Dolls"
 weight = 4
+[[menu.main]]
+URL = ""
+name = "Books"
+weight = 3
 [[menu.main]]
 URL = "music"
 name = "Music"
-weight = 3
-[[menu.main]]
-URL = ""
-name = "MaryNika gallery"
 weight = 2
 [[menu.main]]
 URL = "blog"
