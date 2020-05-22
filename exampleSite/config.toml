@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Freezeteria"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Freezeteria All Rights Reserved"
+copyright = "Copyright &copy; 2020 Freezeteria. All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
