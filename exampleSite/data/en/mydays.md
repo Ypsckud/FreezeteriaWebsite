@@ -4,6 +4,6 @@ date = ""
 description = ""
 image = ""
 image_webp = ""
-title = "mydays"
+title = "mydays.yml"
 
 +++
