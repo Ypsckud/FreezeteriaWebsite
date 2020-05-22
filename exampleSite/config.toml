@@ -19,6 +19,8 @@ home = ""
 languageCode = ""
 languageName = ""
 weight = ""
+[menu]
+static = []
 [[menu.main]]
 URL = ""
 name = "News"
@@ -47,10 +49,6 @@ weight = 6
 URL = "contact"
 name = "Contact"
 weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
