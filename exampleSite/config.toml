@@ -42,7 +42,7 @@ URL = ""
 name = "MaryNika Gallery"
 weight = "5"
 [[menu.main]]
-URL = "pricing"
+URL = "music"
 name = "Music"
 weight = "6"
 [[menu.main]]
