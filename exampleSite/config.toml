@@ -23,6 +23,10 @@ weight = ""
 static = []
 [[menu.main]]
 URL = ""
+name = "Shop"
+weight = ""
+[[menu.main]]
+URL = ""
 name = "News"
 weight = "1"
 [[menu.main]]
