@@ -44,11 +44,11 @@ weight = "5"
 [[menu.main]]
 URL = "pricing"
 name = "Music"
-weight = 5
+weight = "6"
 [[menu.main]]
 URL = "blog"
 name = "Books"
-weight = 6
+weight = "7"
 [[menu.main]]
 URL = ""
 name = "Dolls"
