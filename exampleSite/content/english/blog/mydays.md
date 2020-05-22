@@ -1,13 +1,12 @@
 +++
-author = "John Doe"
-date = 2020-05-11T21:00:00Z
-description = "asdsad"
+author = "Olga Makarova"
+date = 2020-05-22T21:00:00Z
+description = "This is all about my days!"
 image = ""
 image_webp = ""
-title = "mydays2"
+title = "My Days"
 [menu.static]
-name = "My Days"
 weight = 1
 
 +++
-asdsadsa
+Hello! This is a page about my days!
