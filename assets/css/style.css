@@ -133,13 +133,13 @@ a:hover {
 .border-meghna:before {
   background-color: #fff;
   content: '';
-  height: 6px;
+  height: 10px;
   left: 50%;
   margin-left: -20px;
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #00bfa5;
 }
 
 .color {
