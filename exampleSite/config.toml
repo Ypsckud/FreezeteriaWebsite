@@ -1,7 +1,7 @@
 baseURL = "https://freezeteria.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
-paginate = "10"
+paginate = "9"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Freezeteria"
