@@ -1,8 +1,8 @@
 +++
 author = "asdasdsa"
 date = 2020-05-07T21:00:00Z
-description = ""
-image = ""
+description = "asdsadsad"
+image = "/images/portfolio/portfolio-8.webp"
 image_webp = ""
 title = "asdsa"
 
