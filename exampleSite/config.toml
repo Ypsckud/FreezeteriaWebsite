@@ -19,44 +19,45 @@ home = ""
 languageCode = ""
 languageName = ""
 weight = ""
-[menu]
-static = []
+[[menu.main]]
+name = "Nika Gallery"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 10
 [[menu.main]]
 URL = ""
-name = "News"
-weight = "1"
+name = "Shop"
+weight = 9
 [[menu.main]]
-URL = "services"
-name = "My Days"
-weight = 2
+URL = ""
+name = "Dolls"
+weight = 8
 [[menu.main]]
-URL = "portfolio"
-name = "Pictures"
-weight = 3
+URL = "blog"
+name = "Books"
+weight = 7
+[[menu.main]]
+URL = "pricing"
+name = "Music"
+weight = 6
 [[menu.main]]
 URL = "team"
 name = "Photos"
 weight = 4
 [[menu.main]]
-URL = "pricing"
-name = "Music"
-weight = 5
+URL = "portfolio"
+name = "Pictures"
+weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Books"
-weight = 6
-[[menu.main]]
-URL = ""
-name = "Dolls"
-weight = "7"
+URL = "services"
+name = "My Days"
+weight = 2
 [[menu.main]]
 URL = ""
-name = "Shop"
-weight = "8"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = "9"
+name = "News"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
