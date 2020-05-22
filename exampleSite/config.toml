@@ -20,45 +20,41 @@ languageCode = ""
 languageName = ""
 weight = ""
 [[menu.main]]
-URL = "blog"
-name = "News"
-weight = "1"
-[[menu.main]]
-URL = "portfolio"
-name = "Pictures"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "Photos"
-weight = 4
-[[menu.main]]
-URL = ""
-name = "MaryNika gallery"
-weight = "5"
-[[menu.main]]
-URL = "music"
-name = "Music"
-weight = "6"
-[[menu.main]]
-URL = ""
-name = "Books"
-weight = "7"
-[[menu.main]]
-URL = ""
-name = "Dolls"
-weight = "8"
+URL = "contact"
+name = "Contact"
+weight = 9
 [[menu.main]]
 URL = ""
 name = "Shop"
-weight = "9"
+weight = 8
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = "10"
-[[menu.static]]
-name = "My Days"
-url = "mydays"
-weight = "2"
+URL = ""
+name = "Dolls"
+weight = 7
+[[menu.main]]
+URL = ""
+name = "Books"
+weight = 6
+[[menu.main]]
+URL = "music"
+name = "Music"
+weight = 5
+[[menu.main]]
+URL = ""
+name = "MaryNika gallery"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "News"
+weight = 1
+[[menu.main]]
+URL = "team"
+name = "Photos"
+weight = 3
+[[menu.main]]
+URL = "portfolio"
+name = "Pictures"
+weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
