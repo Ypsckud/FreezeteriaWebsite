@@ -61,6 +61,10 @@ weight = "9"
 URL = "contact"
 name = "Contact"
 weight = "10"
+[[menu.static]]
+name = "mydays"
+url = "mydays"
+weight = 5
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
