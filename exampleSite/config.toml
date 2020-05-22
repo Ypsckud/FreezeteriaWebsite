@@ -23,10 +23,6 @@ weight = ""
 static = []
 [[menu.main]]
 URL = ""
-name = "MaryNika Gallery"
-weight = ""
-[[menu.main]]
-URL = ""
 name = "News"
 weight = "1"
 [[menu.main]]
@@ -41,6 +37,10 @@ weight = 3
 URL = "team"
 name = "Photos"
 weight = 4
+[[menu.main]]
+URL = ""
+name = "MaryNika Gallery"
+weight = "5"
 [[menu.main]]
 URL = "pricing"
 name = "Music"
