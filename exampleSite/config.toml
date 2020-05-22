@@ -56,7 +56,7 @@ weight = "8"
 [[menu.main]]
 URL = ""
 name = "Shop"
-weight = "8"
+weight = "9"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
