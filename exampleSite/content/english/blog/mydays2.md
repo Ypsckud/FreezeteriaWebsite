@@ -6,7 +6,7 @@ image = ""
 image_webp = ""
 title = "mydays2"
 [menu.static]
-name = "mydays2a"
+name = "My Days"
 weight = 1
 
 +++
