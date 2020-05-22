@@ -731,6 +731,7 @@ a:hover {
   border: 1px solid rgba(236, 239, 241, 0.07);
   background: #00bfa5;
   padding: 12px 0;
+  font-size: large;
   width: 100%;
   margin: 0;
 }
