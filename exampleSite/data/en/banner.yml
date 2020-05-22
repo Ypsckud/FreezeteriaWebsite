@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: ''
   bg_image: images/backgrounds/freezteria_logo.png
   icon: ''
