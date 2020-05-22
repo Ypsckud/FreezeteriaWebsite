@@ -104,11 +104,5 @@ preloader = "images/logo.png"
 icon = "ti-instagram"
 link = "https://www.instagram.com/studenayadolls/"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCy34yx4jJlMe3Kb7wpGSsZw"
