@@ -5,6 +5,8 @@ description = "This is my music!"
 image = "/images/portfolio/portfolio-3.webp"
 image_webp = ""
 title = "Music"
+[menu.static]
+weight = 5
 
 +++
 This is my music place. Happy listening!
