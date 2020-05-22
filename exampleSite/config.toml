@@ -60,7 +60,7 @@ weight = "9"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "9"
+weight = "10"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
