@@ -52,6 +52,10 @@ URL = "contact"
 name = "Contact"
 weight = "10"
 [[menu.static]]
+name = "Photos"
+url = "photos"
+weight = "4"
+[[menu.static]]
 name = "Pictures"
 url = "pictures"
 weight = "3"
