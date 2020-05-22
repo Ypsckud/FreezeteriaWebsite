@@ -752,7 +752,7 @@ a:hover {
 .con-info span {
   padding-right: 5px;
   font-size: x-large;
-  font-color: #00bfa5;
+  color: #00bfa5;
 }
 
 .error {
