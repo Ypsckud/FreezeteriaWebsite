@@ -1,4 +1,4 @@
-baseURL = "freezeteria.netlify.app"
+baseURL = "https://freezeteria.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "9"
